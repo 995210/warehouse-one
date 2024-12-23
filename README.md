@@ -1,12 +1,4 @@
 hello
 git + vim
-git + vim
-git + vim
-git + vim
-git + vim
-git + vim
-git + vim
-git + vim
-git + vim
-git + vim
-
+warehouse-one
+test
